@@ -1,3 +1,4 @@
+# Python Program to Calculate the Area of a Triangle 
 a = float(input("Enter the first number:"))
 b = float(input("Enter the first number:"))
 c = float(input("Enter the first number:"))
