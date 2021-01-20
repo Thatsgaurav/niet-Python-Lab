@@ -1,5 +1,5 @@
 # Python Program to Add Two Numbers <--- User Input --->
-num1 = input('Enter first number')
+num1 = input('Enter first number: ')
 num2 = input('Enter second number: ')
 
 # Add two numbers
