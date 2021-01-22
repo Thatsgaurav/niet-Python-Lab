@@ -8,3 +8,5 @@ seconds = int(input("Input seconds: "))
 time = days + hours + minutes + seconds
 
 print("The  amounts of seconds", time)
+
+# Output 
