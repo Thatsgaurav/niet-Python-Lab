@@ -84,3 +84,51 @@ Python program to display your details like name, age, address in three differen
 
 Python program to compute the distance between the points (x1, y1) and (x2, y2).  
 
+23
+Python Program to Check if a Number is Positive, Negative or 0
+Easy
+24
+Python Program to Check if a Number is Odd or Even
+Easy
+25
+Python Program to check whether an entered year is a leap year or not
+Easy
+26
+Python Program to Find Numbers Divisible by Another Number
+Easy
+27
+Python Program to Find the Largest Among Three Numbers
+Easy
+28
+Python program to find the roots of a quadratic expression
+Easy
+29
+Python program to find smallest number among three numbers.
+Medium
+30
+Python program to check whether a number is prime number or not
+Medium
+31
+Python Program to Print all Prime Numbers in a given Interval
+Medium
+32
+Python Program to Display the multiplication Table
+Medium
+33
+Python Program to Print the Fibonacci sequence
+Medium
+34
+Python Program to Find the Sum of first N natural numbers
+Medium
+35
+Python Program to Find the Factorial of a given number
+Medium
+36
+Python Program to Find HCF
+Medium
+37
+Python Program to Find LCM of two numbers.
+Medium
+38
+Python Program to Find the Factors of a Number
+Medium
