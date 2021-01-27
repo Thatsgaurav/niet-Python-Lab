@@ -1,0 +1,1 @@
+# Python program to find smallest number among three numbers.
