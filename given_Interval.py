@@ -2,6 +2,9 @@
 
 lower = 0
 upper = 100
+# USER INPUT
+# lower = int(input("Enter first number: "))
+# upper = int(input("Enter second number: "))
 
 print("Prime numbers in interval", lower, "and", upper, "are:")
 
