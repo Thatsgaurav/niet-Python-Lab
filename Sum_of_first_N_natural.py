@@ -9,4 +9,4 @@ else:
     while(num > 0):
         sum += num 
         num -= 1
-    print("sum is", sum)       
+    print("sum is", sum)
