@@ -1,0 +1,1 @@
+# WAP to check whether the two numbers are equal or not. 
