@@ -132,3 +132,48 @@ Medium
 38
 Python Program to Find the Factors of a Number
 Medium
+
+Python lab 3 Programs 18-02-2021 
+WAP to implement the user defined function to add two numbers. 
+
+WAP to check whether the two numbers are equal or not. 
+
+WAP to find the largest of three numbers using user defined function. 
+
+WAP to check whether the given year is a leap year or not using user defined function. 
+
+WAP to swap the values of two variable that are defined as global variables. 
+
+WAP to compute the factorial of the given number using user defined function. 
+
+WAP to compute the P (n, r) using user defined function. 
+
+WAP to compute the C (n, r) using the user defined function. 
+
+WAP to compute the HCF and LCM of two numbers using user defined function. 
+
+WAP compute the sum of the series using user defined function. 
+
+WAP to display the pattern using user defined function. 
+
+WAP to display the Fibonacci series using user defined function. 
+
+WAP to compute the sum of Fibonacci series up to nth term using user defined function. 
+
+WAP to compute the sum of the digits using user defined function. 
+
+WAP to compute the exponential of number w.r.t. another number. 
+
+WAP to check whether the given number is a prime number or not using user defined function. 
+
+WAP to compute the sum of the first n natural number using recursion. 
+
+WAP to compute the factorial of the given number using recursion. 
+
+WAP to compute the exponential of number w.r.t. another number using recursion.  
+
+WAP to display the Fibonacci series using recursion. 
+
+WAP to compute the sum of digits of the given number using recursion. 
+
+WAP to compute the reverse of the given number using recursion. 
