@@ -1,0 +1,1 @@
+# WAP to compute the HCF and LCM of two numbers using user defined function. 
