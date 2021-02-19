@@ -1,0 +1,1 @@
+# WAP to display the pattern using user defined function. 
