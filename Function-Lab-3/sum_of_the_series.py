@@ -1,0 +1,1 @@
+# WAP compute the sum of the series using user defined function. 
