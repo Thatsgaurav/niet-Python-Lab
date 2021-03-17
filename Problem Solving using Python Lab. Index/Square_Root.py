@@ -4,3 +4,4 @@ n = int(input("enter number:"))
 # n = float(input("enter number:"))
 result = n**0.5
 print("square root of",n,"is",result)
+
