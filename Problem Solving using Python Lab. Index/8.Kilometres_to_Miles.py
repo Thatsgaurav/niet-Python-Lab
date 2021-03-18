@@ -1,4 +1,4 @@
-# Python Program to Convert Kilometers to Miles 
+# Python Program to Convert Kilometres to Miles (1 mile = 1.67 km)
 
 km = float(input("Enter value in kilometers: "))
 

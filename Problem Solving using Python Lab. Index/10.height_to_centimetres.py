@@ -1,4 +1,6 @@
-# Python program to convert height (in feet and inches) to centimeters. 
+#  Python program to convert height (in feet and inches) to centimetres.
+# (1 feet= 12 inches, 1 inch=2.54 cm)
+# (cms=feet*12*2.54+inches*2.54)
 
 print("Input your height: ")
 h_ft = int(input("Feet: "))

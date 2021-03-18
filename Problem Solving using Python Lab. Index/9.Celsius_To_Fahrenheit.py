@@ -1,4 +1,5 @@
-# Python Program to Convert Celsius To Fahrenheit 
+# Python Program to Convert Celsius To Fahrenheit
+# F=9*C/5+32
 
 celsius = float(input("Enter the celsius value :"))
 # celsius = 37.5

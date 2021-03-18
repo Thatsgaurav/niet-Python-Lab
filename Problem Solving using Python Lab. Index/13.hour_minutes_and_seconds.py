@@ -1,4 +1,4 @@
-# Python program to convert seconds to day, hour, minutes and seconds. 
+# Python program to convert seconds into day, hour, minutes, and seconds
 
 time = float(input("Input time in seconds: "))
 day = time // (24 * 3600)
