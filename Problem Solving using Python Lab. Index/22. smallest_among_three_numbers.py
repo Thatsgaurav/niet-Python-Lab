@@ -5,10 +5,10 @@ num2 = float(input("Enter second number: "))
 num3 = float(input("Enter third number: "))
 
 if (num1 <= num2) and (num1 <= num3):
-   largest = num1
+   smallest = num1
 elif (num2 <= num1) and (num2 <= num3):
-   largest = num2
+   smallest = num2
 else:
-   largest = num3
+   smallest = num3
 
-print("Smallest number is", largest)
+print("Smallest number is", smallest)
