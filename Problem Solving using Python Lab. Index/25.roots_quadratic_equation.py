@@ -2,7 +2,7 @@
 
 from math import sqrt
 
-print("Quadratic function : (a * x^2) + b*x + c")
+print("Quadratic function : (a * x ^ 2) + b * x + c")
 a = float(input("a: "))
 b = float(input("b: "))
 c = float(input("c: "))
